@@ -19,4 +19,4 @@ Obtendo o endereço da máquina:ifconfig
 
 URL para clonar: http://www.facebook.com
 
-
+Resultado:
